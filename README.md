@@ -19,7 +19,7 @@ Bash-скрипт для диагностики задержки до ближа
 ### С правами sudo (рекомендуется)
 
 ```bash
-sudo curl -sL "https://raw.githubusercontent.com/thekhabaroff/YT/main/yt.sh" -o /usr/local/bin/yt && sudo chmod +x /usr/local/bin/yt
+sudo curl -sL "https://raw.githubusercontent.com/thekhabaroff/YT/main/yt.sh" -o /usr/local/bin/yt && sudo chmod +x /usr/local/bin/yt && yt
 ```
 
 ### Без sudo (в домашнюю директорию)
